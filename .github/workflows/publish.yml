@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }} # Your Thunderstore API token
           community: lethal-company
-          namespace: Parmi_nous # the thunderstore 'team' to publish under
+          namespace: lording # the thunderstore 'team' to publish under
           name: ${{ github.event.repository.name }} # Use the repo name as the package name
           description: Lethal Company modpack for Parmi Nous & USCC discord servers
           version: ${{ github.ref_name }} # Use the tag as the package version
