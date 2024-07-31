@@ -20,5 +20,5 @@ jobs:
           description: Lethal Company modpack for Parmi Nous & USCC discord servers
           version: ${{ github.ref_name }} # Use the tag as the package version
           repo: thunderstore.io
-          categories: | # <-- notice this pipe character
+          categories: | # <-- notice this pipe character 
             modpacks
