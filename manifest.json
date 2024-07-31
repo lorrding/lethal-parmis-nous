@@ -1,6 +1,6 @@
 {
-    "name": "lethal-parmis-nous",
-    "version_number": "0.1.0",
+    "name": "ParmisNousModpack",
+    "version_number": "0.1.4",
     "website_url": "",
     "description": "Lethal Company modpack for Parmi Nous & USCC discord servers",
     "dependencies": [
