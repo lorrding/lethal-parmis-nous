@@ -1,1 +1,1 @@
-{"overrides":[{"action":"OpenEmoteMenuHotkey","origPath":"<Keyboard>/backquote","path":"<Keyboard>/c"},{"action":"RotateCharacterEmoteHotkey","origPath":"<Keyboard>/leftAlt","path":"<Keyboard>/leftAlt"}]}
+{"overrides":[{"action":"OpenEmoteMenuHotkey","origPath":"<Keyboard>/backquote","path":"<Keyboard>/c","groups":"KeyboardAndMouse"},{"action":"RotateCharacterEmoteHotkey","origPath":"<Keyboard>/leftAlt","path":"<Keyboard>/leftAlt","groups":"KeyboardAndMouse"}]}

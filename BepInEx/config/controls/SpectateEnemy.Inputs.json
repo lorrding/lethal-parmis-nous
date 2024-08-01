@@ -1,1 +1,1 @@
-{"overrides":[{"action":"FlashlightKey","origPath":"<Mouse>/rightButton","path":"<Keyboard>/f"}]}
+{"overrides":[{"action":"FlashlightKey","origPath":"<Mouse>/rightButton","path":"<Keyboard>/f","groups":"KeyboardAndMouse"}]}
