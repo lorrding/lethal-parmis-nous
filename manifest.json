@@ -1,6 +1,6 @@
 {
     "name": "ParmiNous_Modpack",
-    "version_number": "1.4.0",
+    "version_number": "1.4.1",
     "website_url": "",
     "description": "Lethal Company modpack for Parmi Nous & USCC discord servers",
     "dependencies": [
@@ -43,8 +43,8 @@
         "F4ilS4fe-MaskTheDead-1.0.6",
         "FlipMods-MoreBlood-1.0.2",
         "FlipMods-ReservedFlashlightSlot-2.0.6",
-        "FlipMods-ReservedItemSlotCore-2.0.32",
-        "FlipMods-TooManyEmotes-2.1.25",
+        "FlipMods-ReservedItemSlotCore-2.0.33",
+        "FlipMods-TooManyEmotes-2.1.26",
         "FoxGod-ThiccCompanyModelReplacement-2.0.1",
         "freesnow-CollectYourDead-1.0.3",
         "fumiko-CullFactory-1.1.5",
@@ -64,7 +64,7 @@
         "LethalResonance-LETHALRESONANCE-4.5.2",
         "loaforc-loaforcsSoundAPI-1.1.7",
         "Lordfirespeed-OdinSerializer-2022.11.9",
-        "malco-Lategame_Upgrades-3.9.5",
+        "malco-Lategame_Upgrades-3.9.7",
         "MassiveNewCoilers-FixCentipedeLag-2023.12.7",
         "mattymatty-AsyncLoggers-1.6.3",
         "MaxWasUnavailable-LethalModDataLib-1.2.2",
@@ -107,7 +107,7 @@
         "TeamClark-ODST_Suit-1.0.0",
         "TeamClark-SCP_Foundation_Suit-1.1.0",
         "TeamClark-Vault_Boy_Suit-1.0.0",
-        "TheFluff-FairAI-1.3.6",
+        "TheFluff-FairAI-1.3.7",
         "tinyhoot-ShipLoot-1.1.0",
         "togglemybits-Strange_Objects-1.2.3",
         "Tolian-PsychSanctum-1.0.1",
@@ -124,6 +124,6 @@
         "Yoshify-DiscJockey-1.2.1",
         "Zaggy1024-PathfindingLagFix-1.2.1",
         "zealsprince-Locker-1.2.2",
-        "Zingar-SecretLabs-3.3.7"
+        "Zingar-SecretLabs-3.3.9"
     ]
 }
